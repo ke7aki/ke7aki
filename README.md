@@ -1,8 +1,5 @@
 ![logo](https://github.com/ke7aki/ke7aki/blob/main/github-header-image.png)
 <h1 align="center">👋, I'm Ketaki Gawde</h1>
-<p align="center">
-<img alt="cooding"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-</p>
 
 - 🔭 I’m currently working on **Steal The Deals** 🤐
 
